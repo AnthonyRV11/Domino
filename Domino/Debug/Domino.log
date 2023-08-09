@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\antho\OneDrive\Escritorio\REPERTORIOS\Domino\Domino\Domino1.h(56,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\antho\OneDrive\Escritorio\REPERTORIOS\Domino\Domino\Domino1.h(136,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Domino.vcxproj -> C:\Users\antho\OneDrive\Escritorio\REPERTORIOS\Domino\Debug\Domino.exe
